@@ -1,0 +1,128 @@
+
+.frame-login{
+    width: 390px;
+    height: 844px;
+    top: 4px;
+    left: 1481px;   
+    background-color: #FFF9E8;
+    padding-top: 156px;
+    .frame-laman{
+        width: 323px;
+        height: 460px;
+        
+        margin-left: 33px;
+
+        background: #FFF;
+        border: 1px solid #FAC115;
+        
+
+        .logo-lg{
+            width: 39px;
+            height: 39px;
+            margin-left: 136px;
+            margin-top: 32px;
+
+        }
+        .welcome{
+            width: 169px;
+            height: 29px;
+            margin-top: 4px;
+            margin-left: 71px;
+           
+            font-weight: 700;
+            font-family: 'Lato',sans-serif;
+        }
+        .welcome-1{
+            
+            padding-top: 0px;           
+            margin-left: 72px;
+
+            font-size: 10px;
+            font-weight: 400;
+            font-family: 'Lexend',sans-serif;
+        }
+        .input-box .input{
+            
+            margin-top: 20px;
+            margin-left: 51px;
+
+            font-family: 'Lexend',sans-serif;
+            font-size: 10px;
+            font-weight: 400;
+            
+            
+        }
+         .Username{
+            
+            width: 226px;
+            height: 35px;
+            margin-top: 10px;
+            margin-left: 48px;
+            
+            background: #D9D9D9;
+            border-radius: 10px;
+            border: 1px solid #D9D9D9;
+
+            font-size: 10px;
+            font-family: 'Lexend',sans-serif;
+            
+        }
+        .Password{
+            width: 226px;
+            height: 35px;
+            margin-top: 16px;
+            margin-left: 48px;
+
+            background: #D9D9D9;
+            border-radius: 10px;
+            border: 1px solid #D9D9D9;
+
+            font-size: 10px;
+            font-family: 'Lexend',sans-serif;
+        }
+        .help .bantuan{
+            width: 54px;
+            height: 16px;
+            margin-top: 20px;
+            margin-left: 51px;
+            font-family: 'Lexend',sans-serif;
+            font-size: 10px;
+            font-weight: 400;
+        }
+        
+        .help .Forgot{
+            margin-top: 20px;
+            margin-left: 51px;
+
+            font-family: 'Lexend',sans-serif;
+            font-size: 10px;
+            font-weight: 400;
+        }
+
+        .btn-masuk .masuk{
+            width: 93px;
+            height: 24px;
+            margin-top: 1px;
+            margin-left: 48px;
+            
+            background: #D9D9D9;
+            border-radius: 10px;
+            border: 1px solid #D9D9D9;
+
+            font-size: 10px;
+            font-family: 'Lexend',sans-serif;
+
+                
+        }
+
+        .tdakun .pertanyaan{
+            margin-top: 20px;
+            margin-left: 51px;
+
+            font-size: 10px;
+            font-family: 'Lexend',sans-serif;
+        }
+        
+        
+    }
+}
